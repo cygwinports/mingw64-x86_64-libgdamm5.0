@@ -3,7 +3,7 @@ ORIG_PN="libgdamm"
 inherit cross gtkmm
 
 NAME="mingw64-x86_64-libgdamm5.0"
-VERSION=4.99.7
+VERSION=4.99.8
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="C++ libgda bindings for Win64 toolchain"
